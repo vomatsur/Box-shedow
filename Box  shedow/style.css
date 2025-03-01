@@ -1,0 +1,183 @@
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+
+header .box{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 600px;
+}
+
+button{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 243px;
+    height: 50px;
+    background-color: #009FF5B5;
+    border-radius: 20px;
+    border: none;
+    opacity: 0.7;
+    box-shadow: 10px 10px 10px white;
+    color: white;
+}
+
+.box2{
+    width: 604px;
+    height: 103px;
+    background-color: rgb(247, 220, 18);
+    border: 10px solid black;
+    border-radius: 60px;
+    margin: 0 auto;
+    margin-top: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box3{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 30px;
+}
+
+h2{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-shadow: 10px 7px 10px yellow;
+}
+
+.box3 div{
+   background-color: rgb(93, 86, 86);
+   width: 360px;
+   height: 420px;
+   box-shadow: 10px 10px 10px white;
+}
+
+.box0{
+    background-image:url(./capsule_616x353.jpg) ;
+    background-size: cover;
+    height: 900px;
+    width: 1520px;
+}
+
+.het{
+    text-shadow: 10px 10px 10px black;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 10px 10px 10px blue;
+}
+
+.het0{
+    text-align: center;
+    color: rgb(78, 73, 73);
+    text-shadow: 10px 10px 7px rgb(253, 252, 252);
+    
+}
+
+.box4{
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+   gap: 500px;
+   
+}
+
+.box5{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.box5 p{
+    width: 50%;
+}
+  
+.box6{
+    background-color: black;
+    width: 1520px;
+}
+
+p{
+    color:white;
+}
+
+.button2{
+    width: 278px;
+    height: 61px;
+    border-radius: 5px;
+    border: none;
+    background-color: yellow;
+    color: black;
+    box-shadow: 10px 10px 10px white;
+}
+
+.button2:active{
+    background-color: grey;
+    color: white;
+    box-shadow: 10px 10px 10px white;
+}
+
+footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(247, 220, 18);
+    height: 158px;
+    width: 1520px;
+}
+
+footer div{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 300px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
